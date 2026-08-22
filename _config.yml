@@ -1,0 +1,10 @@
+# GitHub Pages 사용자 사이트 — 저장소 이름이 `<사용자명>.github.io`라 main 루트가 그대로 웹이 된다.
+#
+# 여기 담긴 것은 Where Wind Leads 앱이 About 화면에서 여는 방침 두 장뿐이다.
+# 앱 소스는 비공개 저장소에 있고, 이 저장소는 공개돼야만 하는 문서만 갖는다.
+title: Where Wind Leads
+description: Privacy Policy and Terms of Use
+
+# 사용자 사이트라 baseurl은 비어 있는 것이 맞다 — 프로젝트 사이트였다면 `/저장소이름`이 필요했다.
+# 테마를 두는 이유는 앱에서 곧장 열리는 페이지이기 때문이다(없으면 스타일 없는 맨 HTML이 나온다).
+theme: jekyll-theme-minimal
