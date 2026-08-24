@@ -5,9 +5,9 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-**Where Wind Leads** — effective August 22, 2026
+**However** — effective August 22, 2026
 
-Where Wind Leads does not collect, store, or share any personal information.
+However does not collect, store, or share any personal information.
 
 ## No data collection
 

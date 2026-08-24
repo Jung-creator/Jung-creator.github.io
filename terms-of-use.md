@@ -5,9 +5,9 @@ permalink: /terms-of-use/
 
 # Terms of Use
 
-**Where Wind Leads** — effective August 22, 2026
+**However** — effective August 22, 2026
 
-By using Where Wind Leads, you agree to these terms.
+By using However, you agree to these terms.
 
 ## License
 
