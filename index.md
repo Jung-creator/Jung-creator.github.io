@@ -1,12 +1,10 @@
 ---
-title: However
+title: Jung
 permalink: /
 ---
 
-# However
+# Jung
 
-An iPhone app for practicing English phrasal verbs — you write a sentence, an on-device AI writes
-the next one, and the story goes wherever the wind leads.
+Apps I build for iPhone. Each one keeps its own documents under its own folder.
 
-- [Privacy Policy](/privacy-policy/)
-- [Terms of Use](/terms-of-use/)
+- [However](/however/) — practice English phrasal verbs by writing a story with an on-device AI

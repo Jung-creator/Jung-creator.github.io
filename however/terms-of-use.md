@@ -1,6 +1,6 @@
 ---
 title: Terms of Use
-permalink: /terms-of-use/
+permalink: /however/terms-of-use/
 ---
 
 # Terms of Use
